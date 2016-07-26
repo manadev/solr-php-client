@@ -1,5 +1,5 @@
 {
-    "name": "reprovinci/solr-php-client",
+    "name": "manadev/solr-php-client",
     "description": "A PHP library for indexing and searching documents within an Apache Solr installation.",
     "license": "BSD-3-Clause",
     "authors": [
